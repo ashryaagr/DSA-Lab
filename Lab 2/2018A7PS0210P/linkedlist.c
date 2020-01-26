@@ -19,7 +19,6 @@ struct node* deleteFirst(struct linkedList * head){
     struct node* first = head->first ;
     head->first = first->next;
     head->count--;
-    printf("Count of elements : %d, ", head->count);
     return first ;
 }
 

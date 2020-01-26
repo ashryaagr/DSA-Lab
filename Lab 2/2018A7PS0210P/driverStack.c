@@ -32,7 +32,7 @@ printf("\n\nPopping out all the elements\n");
 int c;
 
 for(int i=list->count; i>0; i--){
-    printf("Popped out %d\n",pop(s));
+    printf("Popped %d out of the stack \n",pop(s));
 }
 
 printf("\n\nFinal Stack after popping out: ");
