@@ -1,0 +1,20 @@
+Number of cards is 10
+Size of the stack is 508 bytes
+Time taken for insertion sort is : 0.002000 ms
+
+Number of cards is 100
+Size of the stack is 4828 bytes
+Time taken for insertion sort is : 0.080000 ms
+
+Number of cards is 1000
+Size of the stack is 48028 bytes
+Time taken for insertion sort is : 6.066000 ms
+
+Number of cards is 10000
+Size of the stack is 480028 bytes
+Time taken for insertion sort is : 489.965000 ms
+
+Number of cards is 100000
+Size of the stack is 4800028 bytes
+Time taken for insertion sort is : 51295.552000 ms
+

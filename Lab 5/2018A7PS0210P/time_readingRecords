@@ -1,0 +1,15 @@
+Time taken for reading records is : 0.044000 ms
+Number of cards is 10
+
+Time taken for reading records is : 0.168000 ms
+Number of cards is 100
+
+Time taken for reading records is : 1.285000 ms
+Number of cards is 1000
+
+Time taken for reading records is : 9.623000 ms
+Number of cards is 10000
+
+Time taken for reading records is : 81.464000 ms
+Number of cards is 100000
+
