@@ -39,5 +39,6 @@ def main(num_testcases):
 	write_to_file(filename, final_list)
 
 if __name__ == '__main__':
-	num_testcases = 10
+	#num_testcases = int(input("Enter Number of test Cases : "))
+	num_testcases=10
 	main(num_testcases)
